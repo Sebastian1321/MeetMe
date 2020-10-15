@@ -1,0 +1,10 @@
+{
+  "main": "app.js",
+  "android": {
+    "v8Flags": "--expose_gc",
+    "markingMode": "none"
+  },
+  "dependencies": {
+    "nativescript-camera": "^4.5.0"
+  }
+}

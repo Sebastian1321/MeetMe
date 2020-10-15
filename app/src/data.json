@@ -1,0 +1,106 @@
+[
+    {
+        "id": "00000000-0000-1100-0000-000000000001",
+        "category": "Party",
+        "match": true,
+        "description": "Optional description",
+        "startDate": "2020-12-14T10:03:00.000Z",
+        "user": {
+            "id": "00000000-0000-1100-0000-000000000011",
+            "name": "Heinrich",
+            "age": "30",
+            "pictures": [
+                {
+                    "picture": "~/assets/images/dummyData/Events/Event2/User/mainPicture/user.PNG",
+                    "main": true
+                },
+                {
+                    "picture": "~/assets/images/dummyData/Events/Event2/User/mainPicture/user.PNG",
+                    "main": false
+                },
+                {
+                    "picture": "~/assets/images/dummyData/Events/Event2/User/mainPicture/user.PNG",
+                    "main": false
+                }
+            ]
+        }
+    },
+    {
+        "id": "00000000-0000-1100-0000-000000000002",
+        "match": false,
+        "category": "Movie",
+        "description": "Optional description",
+        "startDate": "2020-10-14T10:03:00.000Z",
+        "user": {
+            "id": "00000000-0000-1100-0000-000000000012",
+            "name": "Hanz",
+            "age": "24",
+            "pictures": [
+                {
+                    "picture": "~/assets/images/dummyData/Events/Event2/User/mainPicture/user.PNG",
+                    "main": true
+                },
+                {
+                    "picture": "~/assets/images/dummyData/Events/Event2/User/mainPicture/user.PNG",
+                    "main": false
+                },
+                {
+                    "picture": "~/assets/images/dummyData/Events/Event2/User/mainPicture/user.PNG",
+                    "main": false
+                }
+            ]
+        }
+    },
+    {
+        "id": "00000000-0000-1100-0000-000000000003",
+        "match": false,
+        "category": "Lunch",
+        "description": "Optional description",
+        "startDate": "2020-09-14T10:03:00.000Z",
+        "user": {
+            "id": "00000000-0000-1100-0000-000000000013",
+            "name": "Fred",
+            "age": "26",
+            "pictures": [
+                {
+                    "picture": "~/assets/images/dummyData/Events/Event2/User/mainPicture/user.PNG",
+                    "main": true
+                },
+                {
+                    "picture": "~/assets/images/dummyData/Events/Event2/User/mainPicture/user.PNG",
+                    "main": false
+                },
+                {
+                    "picture": "~/assets/images/dummyData/Events/Event2/User/mainPicture/user.PNG",
+                    "main": false
+                }
+            ]
+        }
+    },
+    {
+        "id": "00000000-0000-1100-0000-000000000004",
+        "match": false,
+        "category": "Home",
+        "description": "Optional description",
+        "startDate": "2020-11-14T10:03:00.000Z",
+        "user": {
+            "id": "00000000-0000-1100-0000-000000000014",
+            "name": "Friedrichy",
+            "age": "27",
+            "pictures": [
+                {
+                    "picture": "~/assets/images/dummyData/Events/Event2/User/mainPicture/user.PNG",
+                    "main": true
+                },
+                {
+                    "picture": "~/assets/images/dummyData/Events/Event2/User/mainPicture/user.PNG",
+                    "main": false
+                },
+                {
+                    "picture": "~/assets/images/dummyData/Events/Event2/User/mainPicture/user.PNG",
+                    "main": false
+                }
+            ]
+        }
+    }
+]
